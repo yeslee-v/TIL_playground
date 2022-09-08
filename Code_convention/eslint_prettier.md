@@ -14,7 +14,7 @@
 
 - `Eslint`: JavaScript lint 도구, TypeScript lint 가능
 
-### Prettier
+## Prettier
 
 - 코드 가독성 향상 및 `일관된 코딩 스타일`
 
