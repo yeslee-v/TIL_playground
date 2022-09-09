@@ -15,4 +15,5 @@
 
 - https://levelup.gitconnected.com/raw-sql-vs-query-builder-vs-orm-eee72dbdd275
 - https://noirstar.tistory.com/264
+- https://itchallenger.tistory.com/494
 - https://stackoverflow.com/questions/97197/what-is-the-n1-selects-problem-in-orm-object-relational-mapping
