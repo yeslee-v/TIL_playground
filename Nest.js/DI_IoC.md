@@ -20,17 +20,18 @@
 
 
 ## IoC(Invision of Control)
-- 제어의 역전
-- 기존 제어 흐름과 비교해 제어 흐름 반전 → 외부에서 제어함
+- 제어의 역전 → `inject()` 사용
+- 기존 제어 흐름과 비교해 제어 흐름 반전 → 외부(프레임워크)에서 제어함
     - 제어 흐름: 명령형 프로그램의 개별 명령문 또는 함수 호출이 실행되거나 평가되는 순서
     - 명시적 제어 흐름에 따라 명령형 프로그래밍 언어(how), 선언적 프로그래밍 언어(what) 구별
+- 객체의 흐름을 외부에서 제어하면?
+    - 객체의 LifeCycle을 프레임워크에서 도맡음 → 개발자는 비즈니스 로직 작성에만 집중할 수 있다
 - 객체 지향 원칙을 잘 지키기 위해 + 역할과 관심 분리 → 응집도를 높이면서 결합도를 낮춘다 → 유지보수성 높은 코드화
-- `inject()` 사용
 - `Hollywood Principle`: Don’t call us, we’ll call you → 주도권은 외부에게 
 
 
 ## DIP(Dependency Inversion Principle)
-- 의존 방향 역전
+- 의존성 주입
 - 상위 레벨의 모듈은 절대 하위 레벨 모듈에 의존하지 않는다 → 둘 다 추상화(abstract)에 의존
 - 저수준 모듈이 고수준 모듈에 의존
     ```typescript
@@ -124,3 +125,5 @@
 - https://tecoble.techcourse.co.kr/post/2021-04-27-dependency-injection/
 - https://iborymagic.tistory.com/73
 - https://www.youtube.com/watch?v=8lp_nHicYd4
+- https://day0404.tistory.com/48
+- https://ganzicoder.tistory.com/163
