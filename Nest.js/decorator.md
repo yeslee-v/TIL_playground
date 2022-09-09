@@ -36,7 +36,7 @@
 
 - Nest는 HTTP route handler와 함께 사용할 수 있는 매개변수 데코레이터 세트 제공
 
-    ex) @Request, @Req() -> req, @Response, @Res() -> res
+    ex) @Request, @Req()  →  req, @Response, @Res()  →  res
 
 
 ### reference
