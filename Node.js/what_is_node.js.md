@@ -69,3 +69,8 @@
   console.log(data) // this is data file
 
   ```
+
+### reference
+
+- https://nodejs.org/dist/latest-v16.x/docs/api/fs.html
+- https://inf.run/z8CD
