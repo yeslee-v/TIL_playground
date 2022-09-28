@@ -1,4 +1,4 @@
-# mocha
+# Mocha
 
 - 테스트 코드를 돌려주는 test runner
 - test suit: 테스트 환경 → `describe()`로 구현

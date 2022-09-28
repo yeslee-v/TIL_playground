@@ -1,4 +1,4 @@
-# what is TDD(Test Driven Development)
+# TDD(Test Driven Development)
 
 - 개발하는데 평균적으로 코드 1,000줄당 70개의 버그를 만든다 → 디버깅하는데 개발 시간의 75% 소요
 - 코드를 작성하기 전에 기능에 대한 테스트를 진행한다 → **테스트에 초점을 맞춘다**
