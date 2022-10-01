@@ -36,7 +36,7 @@
 
 - [What is Express.js?](./Express.js/what_is_express.js.md)
 
-## Test
+## Testing
 
 - [Mocha](./Testing/Mocha.md)
 - [Static Analysis vs Dynamin Analysis](./Testing/static_analysis_vs_dynamic_analysis.md)
