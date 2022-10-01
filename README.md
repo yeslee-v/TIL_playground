@@ -21,7 +21,7 @@
 
 ## Database
 
-- [Database, ORM](./Database/database_orm.md)
+- [Database, ORM(Object Relational Mapping)](./Database/database_orm.md)
 
 ## Design pattern
 
@@ -38,9 +38,9 @@
 
 ## Test
 
-- [Mocha](./%08Test/Mocha.md)
-- [Static Analysis vs Dynamin Analysis](./%08Test/static_analysis_vs_dynamic_analysis.md)
-- [TDD(Test Driven Development)](./%08Test/TDD.md)
+- [Mocha](./Testing/Mocha.md)
+- [Static Analysis vs Dynamin Analysis](./Testing/static_analysis_vs_dynamic_analysis.md)
+- [TDD(Test Driven Development)](./Testing/TDD.md)
 
 ## TypeScript
 
