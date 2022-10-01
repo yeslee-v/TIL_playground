@@ -9,6 +9,7 @@
 ## Bubble Sort
 
 - 데이터의 인접 요소끼리 비교하고, swap 연산을 수행하며 정렬
+- 요소가 이동하는 과정이 거품이 수면으로 올라오는 듯한 모습을 보여져 bubble이라는 이름으로 지어졌다고 한다.
 - 시간 복잡도: `O(n^2)`
 
 ## Selection Sort
@@ -51,3 +52,4 @@
 
 - http://www.ktword.co.kr/test/view/view.php?m_temp1=5228
 - https://questionet.tistory.com/61
+- [거품 정렬 이름 유래](https://ko.wikipedia.org/wiki/%EA%B1%B0%ED%92%88_%EC%A0%95%EB%A0%AC)
