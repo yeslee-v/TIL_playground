@@ -1,6 +1,6 @@
-# Eslint & Prettier
+# ESLint & Prettier
 
-## Eslint
+## ESLint
 
 - `linting`
 
