@@ -64,4 +64,5 @@
 ## Web
 
 - [Path variable vs Query parameter](./Web/path_variable_vs_query_parameter.md)
+- [Pug, Babel, Nodemon](./Web/Pug_Babel_Nodemon.md)
 - [REST API](./Web/REST_API.md)
