@@ -44,6 +44,7 @@
 ## Node.js
 
 - [Morgan](./Node.js/morgan.md)
+- [Pug, Babel, Nodemon](./Web/Pug_Babel_Nodemon.md)
 - [What is Node.js?](./Node.js/what_is_node.js.md)
 
 ## Python
@@ -64,5 +65,4 @@
 ## Web
 
 - [Path variable vs Query parameter](./Web/path_variable_vs_query_parameter.md)
-- [Pug, Babel, Nodemon](./Web/Pug_Babel_Nodemon.md)
 - [REST API](./Web/REST_API.md)
