@@ -18,6 +18,7 @@
 ## Data Structure
 
 - [Deque](./Data%20Structure/Deque.md)
+- [Priority Queue](./Data%20Structure/Priority_Queue.md)
 
 ## Database
 
