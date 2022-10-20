@@ -8,6 +8,7 @@
 
 ## Algorithm
 
+- [Euclidiean](./Algorithm/Euclidiean.md)
 - [Sort](./Algorithm/Sort.md)
 - [Search](./Algorithm/Search.md)
 
