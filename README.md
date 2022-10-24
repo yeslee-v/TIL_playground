@@ -23,7 +23,8 @@
 
 ## Database
 
-- [Database, ORM(Object Relational Mapping)](./Database/database_orm.md)
+- [What is Database](./Database/what_is_database.md)
+- [ORM(Object Relational Mapping)](./Database/ORM.md)
 
 ## Design pattern
 
