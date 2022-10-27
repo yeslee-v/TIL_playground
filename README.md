@@ -70,5 +70,13 @@
 
 ## Web
 
+- [Change image size in Markdown](./Web/change_image_size_in_Markdown.md)
 - [Path variable vs Query parameter](./Web/path_variable_vs_query_parameter.md)
 - [REST API](./Web/REST_API.md)
+
+---
+
+### 📚 References
+
+- SQL 첫걸음(한빛미디어, )
+- 알고리즘 코딩 테스트(이지스퍼블리싱, 김종관 저)
