@@ -41,6 +41,10 @@
 
 - [What is Express.js?](./Express.js/what_is_express.js.md)
 
+## Git
+
+- [How to change a commit message?](./Git/how_to_change_a_commit_message.md)
+
 ## Nest.js
 
 - [Decorator](./Nest.js/decorator.md)
