@@ -80,6 +80,7 @@
 
 - [Change image size in Markdown](./Web/Change_image_size_in_Markdown.md)
 - [Framework vs Library](./Web/Framework_vs_Library.md)
+- [JWT(Json Wen Token)](./Web/JWT.md)
 - [Path variable vs Query parameter](./Web/Path_variable_vs_Query_parameter.md)
 - [REST API](./Web/REST_API.md)
 
