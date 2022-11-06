@@ -14,7 +14,7 @@
 
 ## AWS(Amazon Web Services)
 
-- [S3](./AWS/S3.md)
+- [S3, EC2](./AWS/S3_EC2.md)
 
 ## Code convention
 
