@@ -64,6 +64,11 @@
 - [Pug, Babel, Nodemon](./Node.js/Pug_Babel_Nodemon.md)
 - [What is Node.js?](./Node.js/What_is_node.js.md)
 
+## ORM(Object Relational Mapping)
+
+- [Raw SQL vs TypeORM](./ORM/Raw_SQL_vs_TypeOrm.md)
+- [What is ORM?](./ORM/What_is_ORM.md)
+
 ## Python
 
 - [Built-in functions](./Python/Built-in_functions.md)
