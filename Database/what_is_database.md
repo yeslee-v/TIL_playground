@@ -32,3 +32,22 @@
 | 객체지향 데이터베이스                      | - 객체(object) 그대로 데이터베이스의 데이터로 저장한다.                                                                                                                                                                                                                                               |
 | XML 데이터베이스                           | - XML 자료 형식으로 기록된 데이터를 저장한다.<br>- SQL 명령 대신 XQuery 전용 명령어를 사용한다.                                                                                                                                                                                                       |
 | 열 지향 데이터베이스(KVS; Key-value store) | - 키와 그에 대응하는 값(value)라는 단순한 형태의 데이터를 저장한다.<br>- 연상배열(associative array) 또는 해시 테이블(hash table)에서 자주 볼 수 있다.<br> **NOSQL(Not only SQL)**<br>&nbsp;- document 형식의 데이터베이스로 데이터베이스 형식을 쉽게 변경할 수 있다.<br> &nbsp;ex) MongoDB, DynamoDB |
+
+### MySQL vs PostgreSQL
+
+| 기준                                                                           | MySQL                                       | PostgreSQL                                                                |
+| ------------------------------------------------------------------------------ | ------------------------------------------- | ------------------------------------------------------------------------- |
+| 탄생 배경                                                                      | 1995년 스웨덴 MySQL AB 에서 개발            | 캘리포니아대 컴퓨터 과학과에서 개발                                       |
+| 구현 언어                                                                      | C, C++                                      | C                                                                         |
+| DBMS                                                                           | 관계형                                      | 객체기반 관계형                                                           |
+| GUI                                                                            | MySQL Workbench                             | PgAdmin                                                                   |
+| MView, 테이블 상속 지원 여부                                                   | X                                           | O                                                                         |
+| 지원하는 데이터 타입                                                           | Standard data type만 지원                   | Advanced data type(`array`, `hstore`, `user-defined type`) 지원           |
+| [MVCC(Multi-Version Concurrency Control)](http://www.gurubee.net/lecture/2398) | InnoDB에서만 지원                           | [전체 MVVC 지원](https://www.postgresql.org/docs/current/mvcc-intro.html) |
+| 속도                                                                           | 간단하고 빠르며 신뢰할 수 있다.             | 느리고 복잡하다.                                                          |
+| trouble shooting                                                               | 쉽다.                                       | 어렵다.                                                                   |
+| 연산                                                                           | `read`, `write`같은 간단한 연산에 적합하다. | 크고 복잡한 연산에 쓰인다.                                                |
+
+### reference
+
+- https://www.geeksforgeeks.org/difference-between-mysql-and-postgresql/
