@@ -10,6 +10,8 @@
 
 - `npm`이 `node_modules` 또는 `package.json`을 수정하는 작업들이 자동으로 저장되는 파일.
 
+[좀 더 자세히 알아보자](https://velog.io/@songyouhyun/Package.json%EA%B3%BC-Package-lock.json%EC%9D%98-%EC%B0%A8%EC%9D%B4)
+
 ### reference
 
 - https://docs.npmjs.com/cli/v8/configuring-npm/package-json
