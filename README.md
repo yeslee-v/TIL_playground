@@ -61,6 +61,7 @@
 ## Node.js
 
 - [Morgan](./Node.js/Morgan.md)
+- [Npm](./Node.js/Npm.md)
 - [Pug, Babel, Nodemon](./Node.js/Pug_Babel_Nodemon.md)
 - [What is Node.js?](./Node.js/What_is_node.js.md)
 
