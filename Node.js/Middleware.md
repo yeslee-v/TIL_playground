@@ -1,6 +1,7 @@
 # Middleware
 
-- `request`와 `response` 사이에 있는 **middle software**.
+- `request`와 `response` 사이에 있는 **middle software**로 `request`에 응답하지 않고 `next`메서드를 통해 **다음 함수로 연결**한다.
+-
 - **모든 controller는 middleware** 다.
 
   ```js
@@ -10,7 +11,5 @@
     next();
   };
   ```
-
-- `request`에 응답하지 않는다.
 
   > **app.use()**? global middleware를 만드는 함수 → 어떤 url이 들어가도 사용할 수 있다.
