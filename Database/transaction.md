@@ -1,5 +1,3 @@
-# Transaction Isolation Level(트랜잭션 격리 수준)
-
 # Transaction
 
 - 데이터베이스에서 단일로 수행되는 작업.
@@ -43,7 +41,7 @@
 | **Isolation(격리성)**   | 트랙잭션 수행시, 다른 트랜잭션의 연산 작업이 끼어들지 못하도록 보장한다.                         |
 | **Durability(지속성)**  | 성공적으로 수행된 트랜잭션은 영원히 반영되어야 한다.                                             |
 
-## Transaction Isolation Level
+## Transaction Isolation Level(트랜잭션 격리 수준)
 
 - ACID 원칙 중 하나로 데이터베이스에 동시에 접근할 때, 어떻게 그 접근을 처리할지에 대한 설정이다.
 

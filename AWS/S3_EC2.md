@@ -1,4 +1,4 @@
-# S3, EC2
+# S3 & EC2
 
 ## S3(Simple Storage Service)
 
