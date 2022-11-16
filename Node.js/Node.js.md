@@ -1,4 +1,4 @@
-# What is Node.js
+# Node.js
 
 - Chrome의 V8 엔진을 기반으로 만들어진 JavaScript 런타임 → 브라우저 밖에서 JavaScript 코드를 실행할 수 있다
 

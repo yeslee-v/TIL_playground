@@ -1,4 +1,4 @@
-# What is Database(DB)
+# Database(DB)
 
 - 여러 사람이 공유하여 사용할 목적으로 체계화해 통합, 관리하는 데이터 집합
 
@@ -32,6 +32,8 @@
 | 객체지향 데이터베이스                      | - 객체(object) 그대로 데이터베이스의 데이터로 저장한다.                                                                                                                                                                                                                                               |
 | XML 데이터베이스                           | - XML 자료 형식으로 기록된 데이터를 저장한다.<br>- SQL 명령 대신 XQuery 전용 명령어를 사용한다.                                                                                                                                                                                                       |
 | 열 지향 데이터베이스(KVS; Key-value store) | - 키와 그에 대응하는 값(value)라는 단순한 형태의 데이터를 저장한다.<br>- 연상배열(associative array) 또는 해시 테이블(hash table)에서 자주 볼 수 있다.<br> **NOSQL(Not only SQL)**<br>&nbsp;- document 형식의 데이터베이스로 데이터베이스 형식을 쉽게 변경할 수 있다.<br> &nbsp;ex) MongoDB, DynamoDB |
+
+> ⚠️ _모바일의 경우, [한정된 자원과 컴퓨터에 비해 낮은 CPU 성능](https://edmblackbox.tistory.com/614)으로 Oracle, MySQL 대신 SQLite를 사용한다._
 
 ### MySQL vs PostgreSQL
 
