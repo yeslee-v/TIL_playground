@@ -9,6 +9,7 @@
 ## Algorithm
 
 - [Euclidiean](./Algorithm/Euclidiean.md)
+- [Greedy](./Algorithm/Greedy.md)
 - [Sort](./Algorithm/Sort.md)
 - [Search](./Algorithm/Search.md)
 
@@ -27,12 +28,10 @@
 
 ## Database
 
-- [Design Database](./Database/Design_database.md)
+- [Design Database](./Database/Design_Database.md)
 - [In-memory database](./Database/In-memory_database.md)
-- [ORM(Object Relational Mapping)](./Database/ORM.md)
 - [Transaction](./Database/Transaction.md)
-- [Transaction Isolation Level](./Database/Transaction_Isolation_Level.md)
-- [What is Database](./Database/What_is_database.md)
+- [What is Database](./Database/Database.md)
 
 ## Design pattern
 
@@ -41,11 +40,7 @@
 ## ETC
 
 - [Makefile](./ETC/Makefile.md)
-- [Zero-based numbering](./ETC/Zero-based_numbering.md)
-
-## Express.js
-
-- [What is Express.js?](./Express.js/What_is_express.js.md)
+- [Zero-based numbering](./ETC/Zero_based_numbering.md)
 
 ## Git
 
@@ -60,15 +55,16 @@
 
 ## Node.js
 
-- [Morgan](./Node.js/Morgan.md)
-- [Npm](./Node.js/Npm.md)
+- [Express.js](./Node.js/Express.md)
+- [Morgan](./Node.js/Middleware.md)
+- [Npm(Node Package Manager)](./Node.js/Npm.md)
 - [Pug, Babel, Nodemon](./Node.js/Pug_Babel_Nodemon.md)
-- [What is Node.js?](./Node.js/What_is_node.js.md)
+- [What is Node.js?](./Node.js/Node.js.md)
 
 ## ORM(Object Relational Mapping)
 
-- [Raw SQL vs TypeORM](./ORM/Raw_SQL_vs_TypeOrm.md)
-- [What is ORM?](./ORM/What_is_ORM.md)
+- [Raw SQL vs TypeORM](./ORM/Raw_SQL_TypeORM.md)
+- [What is ORM?](./ORM/ORM.md)
 
 ## Python
 
@@ -79,21 +75,20 @@
 
 - [Mocha](./Testing/Mocha.md)
 - [Mocking](./Testing/Mocking.md)
-- [Static Analysis vs Dynamin Analysis](./Testing/Static_analysis_vs_Dynamic_analysis.md)
+- [Static Analysis vs Dynamin Analysis](./Testing/Static_Analysis_Dynamic_Analysis.md)
 - [TDD(Test Driven Development)](./Testing/TDD.md)
 
 ## TypeScript
 
-- [Type System](./TypeScript/Type_system.md)
-- [What is TypeScript?](./TypeScript/What_is_typescript.md)
+- [What is TypeScript?](./TypeScript/Typescript.md)
 
 ## Web
 
-- [Change image size in Markdown](./Web/Change_image_size_in_Markdown.md)
-- [Framework vs Library](./Web/Framework_vs_Library.md)
+- [Change image size in Markdown](./Web/Change_image_size_in_md.md)
+- [Framework vs Library](./Web/Framework_Library.md)
 - [JWT(Json Wen Token)](./Web/JWT.md)
-- [Local Storage vs Cookies](./Web/Local_Storage_vs_Cookies.md)
-- [Path variable vs Query parameter](./Web/Path_variable_vs_Query_parameter.md)
+- [Local Storage vs Cookies](./Web/Local_Storage_Cookies.md)
+- [Path variable vs Query parameter](./Web/Path_variable_Query_parameter.md)
 - [REST API](./Web/REST_API.md)
 
 ---
