@@ -6,7 +6,8 @@
 
 - 클라이언트 측 프로그래밍 언어인 JavaScript가 서버 측 언어로 사용하기에 한계(OOP 요구 사항을 충족하지 못함)
 
-- JavaScript의 상위 집합 → JavaScript로 변환되어 컴파일(Transpiled)
+- JavaScript의 상위 집합으로 JavaScript로 변환되어 컴파일(Transpiled)
+- JavaScript로 컴파일된 결과물은 `dist` 폴더에 저장된다.
 
 - 정적 타이핑 기능 지원(JavaScript는 미지원)
 
